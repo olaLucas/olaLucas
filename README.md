@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @olaLucas
+- 👀 I’m interested in Web development
+- 🌱 I’m currently learning HTML, CSS and JavaScript
+- 💞️ I’m looking to collaborate on research and developing fields
+- 📫 How to reach me lsantos2003@gmail.com
