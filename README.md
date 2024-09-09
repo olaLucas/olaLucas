@@ -1,3 +1,3 @@
 - 👋 Hi, I’m Lucas Santos
-- 🌱 I’m currently learning the basics programming topics in C/C++ language
+- 🌱 I’m currently learning Rust and Python in college.
 - 📫 How to reach me lsantos2003silva@gmail.com
