@@ -1,3 +1,4 @@
-- 👋 Hi, I’m Lucas Santos
+- 👋 Hi, I’m Lucas.
 - 🌱 I’m currently learning Java and Python in college.
-- 📫 How to reach me lsantos2003silva@gmail.com
+- 📫 How to reach me lsantos2003silva@gmail.com.
+- 🛠️ Linux, C/C++, Python and Rust.
